@@ -1,0 +1,20 @@
+[
+  {
+    "id": "S1",
+    "title": "Section 307 IPC – Attempt to Murder",
+    "text": "Whoever does any act with such intention or knowledge, and under such circumstances, that if he by that act caused death he would be guilty of murder.",
+    "keywords": ["attempt to murder", "intent", "injury"]
+  },
+  {
+    "id": "S2",
+    "title": "Section 420 IPC – Cheating",
+    "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished.",
+    "keywords": ["cheating", "fraud", "property"]
+  },
+  {
+    "id": "S3",
+    "title": "Section 375 IPC – Rape",
+    "text": "A man is said to commit rape if he has sexual intercourse with a woman under circumstances falling under any of the six descriptions.",
+    "keywords": ["rape", "sexual assault", "consent"]
+  }
+]

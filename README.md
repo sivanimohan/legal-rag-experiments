@@ -1,7 +1,7 @@
-# legalRagExperiments
+
 # Legal RAG Experiments
 
-**Repository:** [sivanimohan/legalRagExperiments]  
+**Repository:** [sivanimohan/legal-rag-experiments]  
 **Language:** Python
 
 This repository explores and benchmarks Retrieval-Augmented Generation (RAG) architectures for legal argument generation, focusing on the interplay between multiple classical and neural retrievers and a range of state-of-the-art LLMs. The aim is to empirically evaluate how retrieval strategies and LLM architectures impact the relevance and quality of generated legal arguments, given realistic legal scenarios and a statute corpus.
